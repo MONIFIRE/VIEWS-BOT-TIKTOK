@@ -1,5 +1,4 @@
-Unlimited use. Have fun with my script.
-Please don't give credit !
+Have fun with this script, please don't fix the credit !
 ### https://channel-monifire-website.netlify.app
 <!--
 **MONIFIRE/MONIFIRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
