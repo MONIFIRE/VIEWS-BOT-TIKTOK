@@ -88,7 +88,7 @@ def loop1():
 
 if auto == 'Y' or auto == 'y':
     print(pyfiglet.figlet_format("TIKTOK BOT", font="slant"))
-    print("\nกำลังทำงาน ! ( กรุณาใสหรัสยืนยัน / ห้ามทำอะไรบอทจะทำงานอัตโนมัต )")
+    print("\nกำลังทำงาน ! ( กรุณาใสรหัสยืนยัน / ห้ามทำอะไรบอทจะทำงานอัตโนมัต )")
 
     driver.get("https://zefoy.com/")
     
